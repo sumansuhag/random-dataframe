@@ -14,7 +14,7 @@ pip install pandas numpy matplotlib seaborn missingno scikit-learn
 
 🖥️ Usage
 1. Clone the repository:
-git clone https://github.com/your-repo/student-performance-analysis.git
+https://github.com/sumansuhag/random-dataframe/blob/main/random%20dataframe-checkpoint.ipynb
 
 📊 Data
 The dataset comprises multiple features that offer deep insights into the factors influencing student success. Some key columns include:
